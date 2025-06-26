@@ -1,2 +1,1 @@
-# cafeteria-api
 # payments-api
