@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class CafeteriaServicesApplication
+public class PaymentsApplication
 {
     public static void main( String[] args ) {
-        SpringApplication.run(CafeteriaServicesApplication.class, args);
+        SpringApplication.run(PaymentsApplication.class, args);
     }
 }
